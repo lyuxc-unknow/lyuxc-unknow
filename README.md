@@ -53,7 +53,7 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lyuxc-unknow&theme=tokyonight" width="100%" />
 
-<img src="https://raw.githubusercontent.com/lyuxc-unknow/lyuxc-unknow/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution profile"/>
+<img src="https://raw.githubusercontent.com/lyuxc-unknow/lyuxc-unknow/refs/heads/master/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution profile"/>
 </div>
 
 <p align="center">
